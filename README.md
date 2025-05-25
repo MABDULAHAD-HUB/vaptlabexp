@@ -14,10 +14,11 @@ Hands-on Vulnerability Assessment and Penetration Testing (VAPT) lab experiments
 8. [Experiment 8: Full Web App Penetration Test](Experiment-8-WebApp-Pentest/)
 
 ## 📂 Output Folder
-The [`output/`](output/) folder contains final results, such as screenshots, logs, and evidence files.
+The [`output/`] folder contains final results, such as screenshots, logs, and evidence files.
 
 ---
 
-🔗 GitHub Profile: [github.com/MABDULAHAD-HUB](https://github.com/MABDULAHAD-HUB)  
+[![GitHub](https://img.shields.io/badge/GitHub-MABDULAHAD--HUB-black?logo=github)](https://github.com/MABDULAHAD-HUB)
+
 ⭐ If you found this helpful, please consider giving this repo a star — it motivates me to do more!  
 🙌 Created with passion by **M Abdul Ahad**
