@@ -19,5 +19,5 @@ A network inventory report listing:
 # 🎥 [Watch Demo Video](https://drive.google.com/file/d/1xYtxaGgeF1LwtJGKbum92uW5cEJyXavV/view?usp=drive_link)
 
 ## 📁 Output  
-See the `/output` folder for scan results, screenshots.
+See the `/Output` folder for scan results, screenshots.
 
