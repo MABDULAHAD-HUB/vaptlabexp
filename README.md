@@ -13,11 +13,11 @@ Hands-on Vulnerability Assessment and Penetration Testing (VAPT) lab experiments
 7. [Experiment 7: Privilege Escalation](Experiment-7-Privilege-Escalation/)
 8. [Experiment 8: Full Web App Penetration Test](Experiment-8-WebApp-Pentest/)
 
-
 ## 📂 Output Folder
-The [output] folder contains final results, such as screenshots, logs, and evidence files.
+The [`output/`](output/) folder contains final results, such as screenshots, logs, and evidence files.
 
 ---
 
-🔗 GitHub: [github.com/MABDULAHAD-HUB](https://github.com/MABDULAHAD-HUB)
-
+🔗 GitHub Profile: [github.com/MABDULAHAD-HUB](https://github.com/MABDULAHAD-HUB)  
+⭐ If you found this helpful, please consider giving this repo a star — it motivates me to do more!  
+🙌 Created with passion by **M Abdul Ahad**
