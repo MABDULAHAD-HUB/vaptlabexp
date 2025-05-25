@@ -8,7 +8,7 @@ Identify active hosts, open ports, and running services within a target network 
 
 ## 🛠️ Tools Used  
 - **Nmap** – For host discovery, port scanning, and service enumeration  
-- **Recon-ng / Amass** – For passive reconnaissance (e.g., subdomains, metadata)
+- **Amass** – For passive reconnaissance (e.g., subdomains, metadata)
 
 ## 📄 Deliverable  
 A network inventory report listing:
