@@ -6,7 +6,7 @@ Hands-on Vulnerability Assessment and Penetration Testing (VAPT) lab experiments
 
 1. [Experiment 1: Network Reconnaissance & Footprinting](Experiment-1-Network-Reconnaissance/)
 2. [Experiment 2: Vulnerability Scanning & Assessment](Experiment-2-Vulnerability-Scanning/)
-3. [Experiment 3: Exploiting a Known Vulnerability](Experiment-3-Exploiting-Known-Vulnerability/)
+3. [Experiment 3: Exploiting a Known Vulnerability](Experiment-3-Known-Vulnerability-Exploit/)
 4. [Experiment 4: SQL Injection Attacks](Experiment-4-SQL-Injection/)
 5. [Experiment 5: Cross-Site Scripting (XSS)](Experiment-5-XSS-Attacks/)
 6. [Experiment 6: Password Cracking & Credential Harvesting](Experiment-6-Password-Cracking/)
