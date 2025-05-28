@@ -16,7 +16,7 @@ A network inventory report listing:
 - Guessed operating systems  
 - Active services and ports  
 
-# 🎥 [Watch Demo Video](https://drive.google.com/file/d/1xYtxaGgeF1LwtJGKbum92uW5cEJyXavV/view?usp=drive_link)
+# 🎥 [Watch Demo Video]()
 
 ## 📁 Output  
 See the `/Output` folder for scan results, screenshots.
