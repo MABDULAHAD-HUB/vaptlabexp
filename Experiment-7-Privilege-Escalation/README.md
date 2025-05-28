@@ -13,7 +13,7 @@ Access has been gained to a Linux server with limited user privileges. The goal 
 - A screenshot showing root access (`id` command)  
 - A brief explanation of the exploited vulnerability (e.g., vulnerable kernel, SUID misconfiguration)
 
-#  🎥 [Watch Demo Video](https://drive.google.com/file/d/13PLI752_xCfovaEqzoFeIGgGEv6_USHf/view?usp=drive_link)
+#  🎥 [Watch Demo Video]()
 
 ## 📁 Output  
 Check the `/output` folder for screenshots, logs, and notes related to the escalation process.
