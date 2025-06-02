@@ -14,7 +14,7 @@ A list of hashed passwords (generated using an MD5 hash generator) is available 
 - List of cracked passwords  
 - Recommendations to improve password strength
 
-#  🎥 [Watch Demo Video]()
+#  🎥 [Watch Demo Video](https://drive.google.com/file/d/1shk6PQcWNux3SyBBDCJQCuz83CGQOb6l/view?usp=sharing)
 
 ## 📁 Output  
 Refer to the `/output` folder for cracked hash files, logs, and screenshots.
