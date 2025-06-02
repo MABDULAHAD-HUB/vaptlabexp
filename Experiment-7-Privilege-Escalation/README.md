@@ -1,4 +1,4 @@
-# 🧪 Experiment 8: Privilege Escalation on a Compromised Host
+# 🧪 Experiment 7: Privilege Escalation on a Compromised Host
 
 ## 🧠 Objective  
 Demonstrate post-exploitation techniques to escalate privileges from a non-root user to root on a compromised Linux system.
