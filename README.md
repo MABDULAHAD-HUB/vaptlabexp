@@ -11,7 +11,7 @@ Hands-on Vulnerability Assessment and Penetration Testing (VAPT) lab experiments
 
   **amass enum -passive -d test.fire.net** 
   
-  Not *~~demo.testfire.com~~*
+  Not *~~demo.testfire.net~~*
 
 ## 🔬 Experiments
 
