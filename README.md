@@ -2,6 +2,12 @@
 
 Hands-on Vulnerability Assessment and Penetration Testing (VAPT) lab experiments with detailed documentation, output files, and demo videos.
 
+![GitHub Stars](https://img.shields.io/github/stars/MABDULAHAD-HUB/vaptlabexp?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/MABDULAHAD-HUB/vaptlabexp?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=MABDULAHAD-HUB&label=Visitors&color=0e75b6&style=flat)
+![Repo Size](https://img.shields.io/github/repo-size/MABDULAHAD-HUB/vaptlabexp)
+![Last Commit](https://img.shields.io/github/last-commit/MABDULAHAD-HUB/vaptlabexp)
+
 ### 🚀 Support This Project
 
 ## If this project helped you, please take a second to **⭐ star** the repo and **follow me**! 
