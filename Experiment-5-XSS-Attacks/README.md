@@ -15,7 +15,7 @@ OWASP Juice Shop allows user-generated content. The security team suspects it co
 - Screenshot of the XSS payload executing  
 - Short explanation of the security impact
 
-#  🎥 [Watch Demo Video](https://drive.google.com/file/d/1nioBgzX00jN8nCqVl4toIjpKdX7etASz/view?usp=sharing)
+#  🎥 [Watch Demo Video](https://drive.google.com/file/d/1frF4S5uMc0RU6ieT6v0kyHGiw6c7JCVm/view?usp=sharing)
 
 ## 📁 Output  
 Refer to the `/output` folder for evidence files and screenshots.
