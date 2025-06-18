@@ -14,7 +14,7 @@ The DVWA application’s login and search functionalities are suspected to be vu
 - Screenshots and logs of extracted database entries  
 - Brief report on the nature of the vulnerability and its risk to the organization
 
-#  🎥 [Watch Demo Video](https://drive.google.com/file/d/1TSZGK2qoltoJ-34Bzqdj5RbD_yfbl3p2/view?usp=sharing)
+#  🎥 [Watch Demo Video](https://drive.google.com/file/d/1s_c6yzfmIN23Rc0zT-YfICtNpZLQSc8k/view?usp=sharing)
 
 ## 📁 Output  
 See the `/output` folder for database dump logs, screenshots, and related evidence.
