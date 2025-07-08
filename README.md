@@ -8,17 +8,13 @@ Hands-on Vulnerability Assessment and Penetration Testing (VAPT) lab experiments
 ![Repo Size](https://img.shields.io/github/repo-size/MABDULAHAD-HUB/vaptlabexp)
 ![Last Commit](https://img.shields.io/github/last-commit/MABDULAHAD-HUB/vaptlabexp)
 
-### 🚀 Support This Project
+## 🚀 Support This Project
+### If this project helped you, please take a second to **⭐ star** the repo and **follow me**!  
 
-## If this project helped you, please take a second to **⭐ star** the repo and **follow me**! 
-
- 
+# 
 ![Status](https://img.shields.io/badge/status-Note-red)
-
-  **amass enum -passive -d test.fire.net** 
-  
-  Not *~~demo.testfire.net~~*
-
+### **amass enum -passive -d test.fire.net**    (Not ~~demo.testfire.net~~)
+#
 ## 🔬 Experiments
 
 1. [Experiment 1: Network Reconnaissance & Footprinting](Experiment-1-Network-Reconnaissance/)  
@@ -37,17 +33,15 @@ Hands-on Vulnerability Assessment and Penetration Testing (VAPT) lab experiments
    📹 *Includes a demo video inside the folder*
 8. [Experiment 8: Full Web App Penetration Test](Experiment-8-WebApp-Pentest/)  
    📹 *Includes a demo video inside the folder*
-
+#
 ## 📂 Output Folder
 
-The (output/) folder contains:
-- Final results such as screenshots, logs, and evidence files.  
-- 📄 A combined PDF report for **all experiments**.
+This folder includes:
+- Screenshots of final results  
+- Individual PDF reports for each experiment
 
 ---
 
 [![GitHub](https://img.shields.io/badge/GitHub-MABDULAHAD--HUB-black?logo=github)](https://github.com/MABDULAHAD-HUB)
 
-⭐ If you found this helpful, please consider giving this repo a star — it motivates me to do more!
- 
  Created with passion 🙌 by **M ABDUL AHAD**
