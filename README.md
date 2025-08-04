@@ -11,9 +11,7 @@ Hands-on Vulnerability Assessment and Penetration Testing (VAPT) lab experiments
 ## 🚀 Support This Project
 ### If this project helped you, please take a second to **⭐ star** the repo and **follow me**!  
 
-# 
-![Status](https://img.shields.io/badge/status-Note-red)
-### **amass enum -passive -d test.fire.net**    (Not ~~demo.testfire.net~~)
+
 #
 ## 🔬 Experiments
 
